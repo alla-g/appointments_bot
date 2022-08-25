@@ -1,2 +1,2 @@
 # appointments_bot
-Bot helping to monitor free slots to reschedule medical appointments
+Бот, который автоматически проверяет наличие свободных слотов для переноса записи на сайте ЕМИАС и присылает уведомления в телеграм. Версия актуальна на январь 2021 года.
